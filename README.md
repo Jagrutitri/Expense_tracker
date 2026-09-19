@@ -10,9 +10,8 @@ A full-stack MERN app to add, view, filter, and delete expenses, with category-w
 
 ## How It's Deployed
 
-```mermaid
 <img width="142" height="344" alt="Architecture1 drawio" src="https://github.com/user-attachments/assets/f9d1c067-4b48-40cf-a331-caa23b646588" />
-   ![image](https://github.com/user-attachments/assets/xxxxxxx.png)
+
 ## What Happens When You Add an Expense
 
 ```mermaid
@@ -44,10 +43,10 @@ flowchart LR
     A --> C["🌐 Render or Railway<br/>hosts the Node server"]
     C --> D["☁️ MongoDB Atlas<br/>hosts the database"]
 
-    style A fill:#f5f5f5
-    style B fill:#e8f5e9
-    style C fill:#fff3e0
-    style D fill:#fce4ec
+    style A fill:#000000
+    style B fill:#000000
+    style C fill:#000000
+    style D fill:#000000
 ```
 
 ## Setup
