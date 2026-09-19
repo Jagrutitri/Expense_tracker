@@ -11,17 +11,8 @@ A full-stack MERN app to add, view, filter, and delete expenses, with category-w
 ## How It's Deployed
 
 ```mermaid
-graph TB
-    A["🧑 You (Browser)"] -->|"Opens the website"| B["⚛️ React App<br/>(the frontend you see)"]
-    B -->|"Asks for data"| C["🖥️ Node/Express Server<br/>(the backend brain)"]
-    C -->|"Saves/reads expenses"| D["🍃 MongoDB<br/>(where data lives)"]
-
-    style A fill:#e3f2fd
-    style B fill:#e8f5e9
-    style C fill:#fff3e0
-    style D fill:#fce4ec
-```
-
+<img width="142" height="344" alt="Architecture1 drawio" src="https://github.com/user-attachments/assets/f9d1c067-4b48-40cf-a331-caa23b646588" />
+   ![image](https://github.com/user-attachments/assets/xxxxxxx.png)
 ## What Happens When You Add an Expense
 
 ```mermaid
